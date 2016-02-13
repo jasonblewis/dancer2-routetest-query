@@ -1,0 +1,4 @@
+<form action="[% target %]" method="post">
+    id: <input type="text" name="id"><br>
+    <input type="submit" value="Submit">
+</form>
