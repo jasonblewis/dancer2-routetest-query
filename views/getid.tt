@@ -1,4 +1,7 @@
-<form action="[% target %]" method="get">
-    id: <input type="text" name="id"><br>
+<form id="getid" action="[% target %]" method="get">
+    id: <input id="getidtext" type="text" name="id"><br>
     <input type="submit" value="Submit">
 </form>
+<script>
+ $("#getidtext").focus();
+</script>
