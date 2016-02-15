@@ -18,8 +18,8 @@
           <h2>You&rsquo;ve joined the dance floor!</h2>
         </div>
 
-        <h2><a href="/report1">report1</a></h2>
-        <h2><a href="/report2">report2</a></h2>
+        <h2><a href="/foo">foo report</a></h2>
+        <h2><a href="/bar">bar report</a></h2>
 
         </div>
       </div>

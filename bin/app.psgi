@@ -5,5 +5,5 @@ use warnings;
 use FindBin;
 use lib "$FindBin::Bin/../lib";
 
-use routetest;
-routetest->to_app;
+use RoutetestQuery;
+RoutetestQuery->to_app;

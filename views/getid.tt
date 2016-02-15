@@ -1,4 +1,4 @@
-<form action="[% target %]" method="post">
+<form action="[% target %]" method="get">
     id: <input type="text" name="id"><br>
     <input type="submit" value="Submit">
 </form>
